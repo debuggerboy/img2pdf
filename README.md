@@ -8,7 +8,7 @@ We can use either "jpg/jpeg" or "png" images are input.
 Create a module
 
 ```
-go mod init img2pdf
+go mod init debuggerboy/img2pdf
 ```
 
 Get the dependencies:
@@ -33,4 +33,11 @@ We can run the `img2pdf` apl=plication from command-line as below:
 
 ## To-Do
 
+- add support `~` in input files
+- verify the output pdf file is created
 - add annotations
+
+
+# WARNING
+
+This is a UNFINISHED and BUGGY application, use at your own risk. Authors claim no guarantee that the application work as expected.
