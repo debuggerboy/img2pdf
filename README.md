@@ -8,7 +8,7 @@ We can use either "jpg/jpeg" or "png" images are input.
 Create a module
 
 ```
-go mod init mkpdf
+go mod init img2pdf
 ```
 
 Get the dependencies:
