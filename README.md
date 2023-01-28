@@ -25,7 +25,7 @@ go build img2pdf.go
 
 ## Invocation
 
-We can run the `img2pdf` apl=plication from command-line as below:
+We can run the `img2pdf` application from command-line as below:
 
 ```
 ./img2pdf --images=image1.jpg,image2.png,image3.jpeg --output demo.pdf
